@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mikaelabrough.github.io/sitemap.xml
+Sitemap: https://mikaelabrough.github.io//sitemap.xml
