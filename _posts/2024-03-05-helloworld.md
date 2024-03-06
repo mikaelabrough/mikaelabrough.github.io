@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Synthesising Perspectives in Interdisciplinary Secure Messaging Research 
+title: Synthesising Perspectives in Interdisciplinary Secure Messaging Research on Risk 
 date: 2024-03-05 00:20:00
 description: An evolving literature review of sorts 
 tags: 
