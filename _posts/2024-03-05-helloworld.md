@@ -9,9 +9,9 @@ chart:
   vega_lite: true
 ---
 
-Last year I wrote a couple of thousand words about the different ways in which existing work looks at how risk influences perceptions of secure messaging. This literature is quite diverse and challenging to synthesise, spanning HCI, technical security, cryptography, critical security, Science and Technology Studies (STS), and surveillance studies. I presented the words I wrote last year at an STS confernence organised by [STS Italia](http://www.stsitalia.org/?lang=en) in Bologna. A couple critiques from the audience stood out:
+Last year I wrote a couple of thousand words about the different ways in which existing work looks at how risk influences perceptions of secure messaging. This literature is quite diverse and challenging to synthesise, spanning HCI, technical security, cryptography, critical security, Science and Technology Studies (STS), and surveillance studies. I presented these words at a 2023 STS confernence organised by [STS Italia](http://www.stsitalia.org/?lang=en) in Bologna. A couple critiques from the audience stood out:
 
-1. What about this existing data speaks to the *self*-perception of people in so-called risky social and political contexts? 
+1. What about this existing data speaks to the self-perception of people in so-called risky social and political contexts? 
 2. How are self-perceptions represented, and can they even be represented through boiler-plate qual and quant methodologies? 
 3. Could these be scientific projections of what *we* assume about other people's levels of risk? 
 
@@ -23,7 +23,7 @@ This is the most recent abstract of the article -
 
 >*Recent years have seen sociological and anthropological interventions in the mathematical domain of cryptography. A major concern of cryptography is secure messaging, which involves end-to-end encrypted communication between groups  and individuals for anti-surveillance privacy purposes (e.g. WhatsApp, Signal). Despite its positivist foundations and often adversarial abstractions, some scholars are recognising the existence of value-driven decision making in cryptographic messaging design, prompting interventions from the social sciences. This article reviews recent anthropological, sociological and socio-technical contributions to the field of secure messaging, particularly as they relate to ideas of risk and are articulated by people rather than institutions. I will highlight and analyse efforts to understand how risk intersects with practices and perceptions of secure messaging, as articulated through work with communities of people who rely on them. Through this analysis, I will review and critique some of the assumptions made by scholars in this interdisciplinary field in terms of priorities, epistemology and morality - drawing attention to the different ways of 'seeing surveillance' that can potentially inhibit meaningful knowledge exchange.*
 
-While this article started out as a literature review, the current form is more of a critical review. I will be presenting this paper again in a few months at another venue. The main issues that I have with this binary (as articulated in the paper by interweaving conventional review with a look at scholarly morality/epistemology) are as follows: 
+While this article started out as a literature review, the current form is more of a critical review. I will be presenting this paper again in a few months at another venue. The simply-stated issues that I have with this binary (as articulated in the paper by interweaving conventional review with a look at scholarly morality/epistemology) are as follows: 
 
 **Ascription** Many studies that distinguish between high-risk and low-risk people ascribe these labels to the communities they study. The binary is an academic construct that does not tell us much about how people navigate and negotiate risk in relation to their digital security. While there are many academic articles I could cite to support this, the easiest way is to speak from experience. If you interview someone who engages in what outsiders would call *risky activities* or lives in a so-called *risky political climate*, it is rare that they will frame their life in these terms. For most people, what seems risky to somebody else is likely normal to them. It seems pendantic to write this way, but alas.
 
@@ -31,7 +31,7 @@ While this article started out as a literature review, the current form is more 
 
 **Context** Context matters. People have written a lot about this. When we think about the various ways in which this binary breaks down when we think about the complex ways in which people negotiate risk, perhaps it makes more sense to study people in context simply as people engaging in x phenomenon in x place. 
 
-I will link to the article up soon once I know that I can. 
+I will link to the article as soon once I know that I can. In other boring literature review news, I am currently embarking on the big one for my thesis... 
 
 
 
