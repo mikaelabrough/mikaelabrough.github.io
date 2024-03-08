@@ -120,7 +120,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Mikaela Brough # blog_name will be displayed in your blog page
-blog_description: social movements + secure technologies + ethnography
+blog_description: Social Movements<br> Secure Technologies<br> Ethnography
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -265,7 +265,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: [] # these tags will be displayed on the front page of your blog
-display_categories: [] # these categories will be displayed on the front page of your blog
+display_categories: ["Articles", "Thesis"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

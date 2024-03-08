@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Synthesising Perspectives in Interdisciplinary Secure Messaging Research on Risk 
+title: Doing critical literature reviews 
 date: 2024-03-05 00:20:00
-description: An evolving literature review of sorts 
+description: A summary of some ongoing synthesis work on risk and secure messaging
 tags: 
-categories:
+categories: Articles
 chart:
   vega_lite: true
 ---
