@@ -19,6 +19,7 @@ I have been interviewing activists remotely for a few weeks now. I plan to go to
 
 In conducting remote interviews as part of an initial phase of this project, I have asked myself three key questions:
 
+> 
 1. What is the landscape of advocacy and information security in this context?
 2. How will this site interact conceptually with existing work I have done on climate activism in the UK? 
 3. What sorts of things do groups and individuals feel would be most useful for me to work with them on?
