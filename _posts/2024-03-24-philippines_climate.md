@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Information security of environmental activist groups in the Philippines // the beginnings of a new project
+title: Exploring climate activism and information security in the Philippines
 date: 2024-03-24 00:20:00
-description: Some notes on context and purusing multi-sitednesss.
+description: Some notes on context, pursuing multi-sitedness, and the beginning of a new project.
 tags: Philippines Climate Activism
 categories: Thesis
 chart:
