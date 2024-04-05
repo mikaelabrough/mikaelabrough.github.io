@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Exploring climate activism and information security in the Philippines
+title: On the start of a new project in the Philippines...
 date: 2024-03-24 00:20:00
-description: Some notes on context, pursuing multi-sitedness, and the beginning of a new project.
+description: Some notes on context, pursuing multi-sitedness, and remote interviews.
 tags: Philippines Climate Activism
 categories: Thesis
 chart:
