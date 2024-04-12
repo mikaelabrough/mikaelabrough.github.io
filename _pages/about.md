@@ -26,7 +26,7 @@ My work explores the digital security practices and perceptions of climate activ
 
 #### Current Work
 
-I have spent the last year working on this project in the UK, with the passage of the Public Order Bill Amendments of 2023 providing the backdrop (findings forthcoming). I am currently continuing to work in the UK, but am also exploring these dynamics in the Philippines, with the Anti-Terrorism Act of 2020 providing the context. I am currently conducting remote interviews for this project in preparation for two research visits to the Philippines - one in the summer of 2024 and a second and much longer visit in the winter/spring of 2025. I will also be attending COP. 
+I have spent the last year working on this project in the UK, with the passage of the Public Order Bill Amendments of 2023 providing the backdrop (findings forthcoming). I am currently continuing to work in the UK, but am also exploring these dynamics in the Philippines, with the Anti-Terrorism Act of 2020 providing the context. I am currently conducting remote interviews for this project in preparation for two research visits to the Philippines - one in the summer of 2024 and a second and much longer visit in the winter/spring of 2025. I will also be attending / protesting [COP29](https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop) in Azerbaijan. 
 
 #### Etc.
 
