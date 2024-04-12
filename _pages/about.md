@@ -30,10 +30,13 @@ I have spent the last year working on this project in the UK, with the passage o
 
 #### Etc.
 
-I also like to do things outside my research area. I have a pretty good grasp of things like computer networking (for which I am currently a TA), cryptography, and programming/statistics (mostly Python, though I can mess around in R quite well, and C less so - I am also a TA for Python). During an RA stint at the University of Oxford, I worked in other areas of qualitative social research, hence the two publications on family planning. 
+I also like to do things outside my research area. I have a good grasp of things like computer networking (for which I am currently a TA), cryptography, and programming/statistics (mostly Python, though I can mess around in R quite well, and C less so - I am also a TA for Python). During an RA stint at the University of Oxford, I worked in other areas of qualitative social research, hence the two publications on family planning. 
 
 
-I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I also have a BA from McGill University, during which time I worked and volunteered with a number of advocacy groups in Montréal. I also devote a lot of energy to programmes in London that are not strictly related to digital rights/surveillance. These programmes surrond harm reduction, cooking education, language education, the Special Olympics (rhythmic gymnastics), and refugee protections. I also worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my time between London and southern Italy.
+I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I also have a BA from McGill University, during which time I worked and volunteered with a number of advocacy groups in Montréal. I also devote a lot of energy to programmes in London that are not strictly related to digital rights/surveillance. These programmes surround harm reduction, cooking education, language education, the Special Olympics (rhythmic gymnastics), and refugee protections. I also worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my time between London and southern Italy (Puglia).
+
+
+I can collaborate in English, Italian, and French (if you can tolerate the Canadian variety). I am also learning Tagalog.
 
 
 
