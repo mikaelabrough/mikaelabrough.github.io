@@ -36,7 +36,7 @@ I also like to do things outside my research area. I have a good grasp of things
 I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I also have a BA from McGill University, during which time I worked and volunteered with a number of advocacy groups in Montréal. I also devote a lot of energy to programmes in London that are not strictly related to digital rights/surveillance. These programmes surround harm reduction, cooking education, language education, the Special Olympics (rhythmic gymnastics), and refugee protections. I also worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my time between London and southern Italy (Puglia).
 
 
-I can collaborate in English, Italian, and French (if you can tolerate the Canadian variety). I am also learning Tagalog.
+I can collaborate in English, Italian, and French. I am also learning Tagalog.
 
 
 
