@@ -19,9 +19,9 @@ I am a [PhD researcher](https://pure.royalholloway.ac.uk/en/persons/mik-brough) 
 
 #### Research Area
 
-My research is ethnographic, participatory, and qualitative in nature - meaning that I both interview people and embed myself socially/physically within the spaces I study. I am not alone in this endeavour, as I am part of an amazing [Ethnography Group](https://rikkebjerg.gitlab.io/ethnography-group/people/).
+My work explores how members of environmental social movements navigate their information security in politically sensitive contexts. To do this, I take a multi-sited, engaged ethnographic approach in both the Southern Philippines (PH) and the United Kingdom (UK). This approach involves formal and informal interviews, embedded observation through extended fieldwork, and generally working with participants in ways that they feel benefit them. 
 
-My work explores how members of environmental social movements navigate their information security in politically sensitive contexts. Rather than prioritising technological solutions, I study the social first -- building our understanding of security *from the ground up*. One of the main ways I do this is by showing how (information) security is a function of cultural, political and social conditions. I am doing this in two countries - the Philippines and the UK. My ultimate aim is to understand secure systems through the lived experiences of those who explicitly rely on them.
+I am not alone in the pursuit of ethnography in information security, as I am part of an amazing [Ethnography Group](https://rikkebjerg.gitlab.io/ethnography-group/people/). Overall, this work stresses the complexity of information security research in relation to social movements, and raises questions about how scholars can develop security *in context*, *from the ground*. You can view pdf of abstract [here](https://github.com/mikaelabrough/IS-EM/blob/main/Abstract.pdf).
 
 I am supervised by [Dr. Rikke Bjerg Jensen](https://pure.royalholloway.ac.uk/en/persons/rikke-bjerg-jensen) and [Professor Martin Albrecht](https://www.kcl.ac.uk/people/martin-albrecht), an ethnographer and a cryptographer respectively. My doctoral research is related to, but not funded by, their EPSRC-funded interdisciplinary project [Social Foundations of Cryptography](https://social-foundations-of-cryptography.gitlab.io/team). My work is funded through a EPSRC studentship associated with the CDT. 
 
@@ -35,7 +35,7 @@ I also like to do things outside my thesis. I am a teaching assistant for comput
 
 I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I have a BA from McGill University. I worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my non-fieldwork time between London and southern Italy. 
 
-Can collaborate professionally in English and Italian. Can hold a chat in French and Tagalog.
+Can collaborate professionally in English and Italian. Can hold a conversation in French and Tagalog.
 
 Email me :)
 
