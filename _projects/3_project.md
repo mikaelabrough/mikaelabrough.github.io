@@ -1,80 +1,37 @@
 ---
 layout: page
-title: UK family planning
-img: assets/img/3.jpg
+title: Family Planning
+
 importance: 3
 category: Past
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+__Title__
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Fertility Decision-Making in the UK: Insights from a Qualitative Study among British Men and Women 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+__Co-Author__
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Dr. Paula Sheppard (PI)
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+__Abstract__
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Scholars are interested in better understanding the low fertility observed in higher income countries. While some people are choosing to have smaller families, countries also report a ‘fertility gap’, which is the proportion of people who end up with fewer children than originally desired. This paper investigates some causes of the fertility gap in the UK. We amassed qualitative data from seven focus groups conducted among men and women of reproductive age with different educational backgrounds. These focus groups suggest that social support is an influential factor for Britons thinking about having children, although discussions differed in terms of whether this was support from partners or parents. Discussions with university-educated women featured themes of career opportunity costs, and non-university men contributed insights on the financial burden of parenthood. This exploratory study provides up-to-date material on unwanted childlessness and the low fertility in the UK, and highlights the merit of using qualitative methods in understanding the fertility gap.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+--------------
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+__Title__
 
-{% endraw %}
+Father–Toddler Bonding during the COVID-19 Lockdown: Qualitative Insights from 17 Families in Britain
+
+__Co-Author__
+
+Dr. Paula Sheppard (PI)
+
+__Abstract__
+
+The UK lockdowns brought about many domestic changes. One was that many families with young children found themselves in the largely unique situation where fathers who normally worked away and saw little of their children during the day were now at home full-time. This was coupled with the fact that grandparents were now unavailable as lockdown rules prohibited visits and travel and many elderly were especially vulnerable. This study aimed to explore how this novel family situation was regarded by parents of young children and how they thought it would affect their children’s social development. Thematic analysis of interviews with 24 mothers and fathers of toddlers revealed that most parents did not think that the lockdown negatively impacted their child’s development, although they worried about it nonetheless. Having fathers at home was overwhelmingly seen as a positive for both the dad’s attachment to the toddler and the toddler’s attachment to their dad. The narrative around grandparents was more divided; there was an almost even split between parents thinking grandparental absence had a negative impact on the grandparent–child relationship and those who thought it made no difference. This study provides qualitative insight into an unusual domestic situation suggesting that parents felt father-child bonds were strengthened by the lockdown, although it remains to be seen if father-child relationships are improved long-term.
+
+
+
