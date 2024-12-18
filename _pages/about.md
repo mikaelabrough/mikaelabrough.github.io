@@ -35,7 +35,7 @@ I also like to do things outside my thesis. I am a teaching assistant for comput
 
 I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I have a BA from McGill University. I worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my non-fieldwork time between London and southern Italy. 
 
-Can collaborate professionally in English and Italian. Can hold a conversation in French and Tagalog.
+Can collaborate professionally in English and Italian. Can hold a conversation in French and am learning Bisaya.
 
 Email me :)
 
