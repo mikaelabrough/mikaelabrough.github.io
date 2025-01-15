@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>PhD Candidate in Information Security at Royal Holloway, University of London</a>. Mikaela.brough.2022@live.rhul.ac.uk.
 
@@ -31,11 +31,11 @@ I spent 2023-2024 working on this project in the UK (findings forthcoming). I am
 
 #### Etc.
 
-I also like to do things outside my thesis. I currently work as a research assistant (RA) for a project about the security convergences of emerging technologies. I am also a teaching assistant for computer networking, intro to cryptography, and programming/statistics (mostly Python, though I can mess around with R quite well...C and Java less so). During a previous RA stint at the University of Oxford, I worked in other areas of qualitative social research, hence the two publications on family planning. 
+I also like to do [things](https://mikaela.brough.github.io/activities/) outside my thesis. I currently work as a research assistant for a project about the security convergences of emerging technologies. I am also a teaching assistant for computer networking, intro to cryptography, and programming/statistics (mostly Python, though I can mess around with R quite well...C and Java less so). During a previous RA stint at the University of Oxford, I worked in other areas of qualitative social research, hence the two publications on family planning. 
 
 I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I have a BA from McGill University. I worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my non-fieldwork time between London and southern Italy. 
 
-Can collaborate professionally in English and Italian. Can hold a conversation in French and am learning Bisaya :)
+Can collaborate professionally in English and Italian. Can hold a conversation in French and am learning Bisaya.
 
 Email me!
 
