@@ -75,7 +75,7 @@ Included are both academic conference presentations and also presentations from 
 | 2023-24 | Fundamentals of Statistical Inference | LTCC mathematics course             |
 | 2023    | Cryptography                   | Online course                              |
 | 2023    | C Programming                  | Online course                              |
-| 2023    | Penetration                    | CDT course                                 |
+| 2023    | Penetration Testing            | CDT course                                 |
 | 2022    | Security Theories              | Bespoke course                             |
 | 2022    | Geopolitics and Security       | CDT course                                 |
 | 2022    | Security Management            | CDT course                                 |
@@ -91,18 +91,15 @@ Included are both academic conference presentations and also presentations from 
 
 | Year    | Title                          | Description                                | 
 |---------|--------------------------------|--------------------------------------------|
-| 2024    | Evaluating your Teaching       | Professional Development in Teaching       |
-| 2024    | How Students Learn             | Professional Development in Teaching       |
-| 2024    | Introduction to Programme      | Professional Development in Teaching       |
+| 2024    | InSTIL Certification           | Professional Development in Teaching       |
 | 2024    | 23 Things International        | Global Research Collaboration              |
 | 2024    | Ethics and Data Management     | Researcher Development Programme           |
-| 2024    | Foundations of Ethical Research| Epigeum Researcher Development Programme   |
-| 2024    | Ethical Research in Practice   | Epigeum Researcher Development Programme   |
-| 2023    | Responsible Research and Innovation | Research ethics skills course         |
-| 2023    | Academic writing               | Skills training workshop                   |
-| 2023    | Presentation training          | Skills training workshop                   |
-| 2023    | Media training                 | Skills training workshop                   |
-| 2023    | Fieldwork training             | Skills training workshop                   |
+| 2024    | Ethical Research               | Epigeum Researcher Development Programme   |
+| 2023    | Responsible Research and Innovation | UCL course                            |
+| 2023    | Academic writing               | RHUL Skills training workshop              |
+| 2023    | Presentation training          | RHUL Skills training workshop              |
+| 2023    | Media training                 | RHUL Skills training workshop              |
+| 2023    | Fieldwork training             | RHUL Skills training workshop              |
 
 <br>
 
