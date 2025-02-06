@@ -31,7 +31,7 @@ I spent 2023-2024 working on this project in the UK (findings forthcoming). I am
 
 #### Etc.
 
-I also like to do [things](https://mikaelabrough.github.io/activities/) outside my thesis. I currently work as a research assistant for a project about the security convergences of emerging technologies. I am also a teaching assistant for computer networking, intro to cryptography, and programming/statistics (mostly Python, though I can mess around with R quite well...C and Java less so). During a previous RA stint at the University of Oxford, I worked in other areas of qualitative social research, hence the two publications on family planning. 
+I also like to do [things](https://mikaelabrough.github.io/activities/) outside my thesis. I currently work as a research assistant for a DSIT project about security convergence / emerging technology. I am also a teaching assistant for computer networking, intro to cryptography, and programming/statistics (mostly Python, though I can mess around with R quite well...C and Java less so). During a previous RA stint at the University of Oxford, I worked in other areas of qualitative social research, hence the two publications on family planning. 
 
 I completed my MSc in Social Anthropology at the University of Oxford in 2021 under the supervision of [Dr. Ina Zharkevich](https://www.kcl.ac.uk/people/ina-zharkevich). I have a BA from McGill University. I worked as a chef for ages, full time for a while, but otherwise in conjunction with other activities. I grew up in southern Ontario, but tend to split my non-fieldwork time between London and southern Italy. 
 
