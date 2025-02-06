@@ -19,15 +19,15 @@ I am a [PhD researcher](https://pure.royalholloway.ac.uk/en/persons/mik-brough) 
 
 #### Research Area
 
-My work explores how members of environmental social movements navigate their information security in politically sensitive contexts. To do this, I take a multi-sited, engaged ethnographic approach in both the Southern Philippines (PH) and the United Kingdom (UK). This approach involves formal and informal interviews, embedded observation through extended fieldwork, and generally working with participants in ways that they feel benefit them. 
+My work explores how members of environmental social movements navigate their information security. To do this, I take a multi-sited, engaged ethnographic approach in both the Southern Philippines (PH) and the United Kingdom (UK). This approach involves formal and informal interviews, embedded observation through extended fieldwork, and generally working with participants in ways that they feel benefit them. 
 
-I am not alone in the pursuit of ethnography in information security, as I am part of an amazing [Ethnography Group](https://rikkebjerg.gitlab.io/ethnography-group/people/). Overall, this work stresses the complexity of information security research in relation to social movements, and raises questions about how scholars can develop security *in context*, *from the ground*. See abstract [here](https://mikaelabrough.github.io/projects/1_project/)
+I am not alone in the pursuit of ethnography in information security, as I am part of an amazing [Ethnography Group](https://rikkebjerg.gitlab.io/ethnography-group/people/). Overall, this work stresses the complexity of information security research in relation to social movements, NGOS, and CSOs, and raises questions about how scholars can develop security *in context*, *from the ground*. See abstract [here](https://mikaelabrough.github.io/projects/1_project/)
 
 I am supervised by [Dr. Rikke Bjerg Jensen](https://pure.royalholloway.ac.uk/en/persons/rikke-bjerg-jensen) and [Professor Martin Albrecht](https://www.kcl.ac.uk/people/martin-albrecht), an ethnographer and a cryptographer respectively. My doctoral research is related to, but not funded by, their EPSRC-funded interdisciplinary project [Social Foundations of Cryptography](https://social-foundations-of-cryptography.gitlab.io/team). My work is funded through a EPSRC studentship associated with the CDT. 
 
 #### Current Work
 
-I spent 2023-2024 working on this project in the UK (findings forthcoming). I am now exploring these dynamics in the Philippines. The Philippines has a prominent environmental movement and is one of the most dangerous places in the world to be an environmental human rights defender. I recently visited Cebu (and other areas of the southern Philippines) for a preliminary research trip. I will be returning for extended fieldwork in January. My work in the Philippines is a formal collaboration between myself, local universities in PH and environmental advocacy groups.
+I spent 2023-2024 working on this project in the UK (findings forthcoming). My work in the Philippines is a formal collaboration between myself, local universities in PH and environmental advocacy groups.
 
 #### Etc.
 
