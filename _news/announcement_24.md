@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Landed in Cebu City for longer term fieldwork!
+First days back in Cebu City for longer term fieldwork!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Research visa approved for long-term fieldwork in the Philippines! 
+Research visa approved for fieldwork in the Philippines! 

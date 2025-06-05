@@ -42,7 +42,7 @@ Computer Science (CS), Information Security (IS), Undergraduate (UG), Masters of
 
 | Year | Institution | Project | Responsibilities |
 |------|------------|------|-------|--------------|------------------|
-| 2024 -| RHUL / DSIT | Securing Converged Technologies | Data analysis, admin, report writing |
+| 2024 - 2025| RHUL / DSIT | Securing Converged Technologies | Data analysis, admin, report writing |
 | 2021- 22 | Oxford | Fertility Decision-Making in the UK | Data collection, analysis, write-up |
 
 <br> 
@@ -108,7 +108,8 @@ Included are both academic conference presentations and also presentations from 
 
 | Year    | Title                          | Description                                | 
 |---------|--------------------------------|--------------------------------------------|
-| 2024    | Bisaya Language Tutoring       | Private                                    |
+| 2025    | Tagalog Language Tutoring      | Private                                    |
+| 2024    | Cebuano Language Tutoring      | Private                                    |
 | 2024    | Tagalog Language Course        | SOAS Language Centre                       |
 | 2022    | Italian Language Tutoring      | Private                                    |
 | 2021    | Italian Language Class         | Oxford Language Centre                     |
