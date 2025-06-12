@@ -12,7 +12,7 @@ On the Virtues of Information Security in the UK Climate Movement
 
 __Co-Authors__ 
 
-Dr. Rikke Bjerg Jensen, Professor Martin Albrecht
+Professor Rikke Bjerg Jensen, Professor Martin Albrecht
 
 __Abstract__
 
