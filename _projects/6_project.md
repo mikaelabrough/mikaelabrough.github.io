@@ -2,7 +2,7 @@
 layout: page
 title: Masters Dissertation
 
-importance: 3
+importance: 6
 category: Past
 
 ---
