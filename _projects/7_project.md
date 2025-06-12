@@ -9,7 +9,7 @@ category: Past
 
 __Title__
 
-Securing Converged Technologies: Insights from Subject Matter Experts
+Securing Converged Technologies: Insights from Subject Matter Experts          
 
 __Abstract__ 
 
