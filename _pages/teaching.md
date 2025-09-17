@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/
 title: Activities
 description: A summary of teaching assistant work, research assistant work, presentations, modules, skills development, language tutoring, and admin. Nothing from my MSc is included.
-nav: true
+nav: false
 nav_order: 6
 ---
 
@@ -25,6 +25,8 @@ Computer Science (CS), Information Security (IS), Undergraduate (UG), Masters of
 
 | Year | Department | Term | Level | Course Title | Responsibilities |
 |------|------------|------|-------|--------------|------------------|
+| 2025     | CS | Autumn | UG 3rd | Security Management | Marking |
+| 2024     | IS | Autumn | MSc | Introduction to Cryptography | Lab facilitation |
 | 2024     | CS | Autumn | UG 3rd | User-Centred Design | Lab facilitation, marking |
 | 2024     | CS | Autumn | UG 3rd | IT Project Management | Marking |
 | 2024     | CS | Autumn | UG 2nd | Databases | Marking |
@@ -53,6 +55,8 @@ Included are both academic conference presentations and also presentations from 
 
 | Year    | Location                       | Title                             | Event               | Type                |
 |---------|--------------------------------|-----------------------------------|---------------------|---------------------|
+| 2025    | Seattle, WA		            | On the Virtues of Information Security in the UK Climate Movement | USENIX Security '25 | Long talk |
+| 2025    | Boston (online)                | Security, Privacy, and Activism in the Philippines | Reimagining Cryptography and Privacy Conference | Long talk |
 | 2024    | Cebu City                      | Talking about Information Security| Standalone | Fieldwork workshops |
 | 2024    | Bristol                        | Information Security in Environmental Movements | Inter-CDT Summer School | Lightning Talk |
 | 2024    | Boston (online)                | On the Virtues of Information Security in the UK Climate Movement | Reimagining Cryptography and Privacy Conference | Long talk |
