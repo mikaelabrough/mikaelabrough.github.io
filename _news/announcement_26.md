@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wrapping up three great days at USENIX Security '25, where I presented new work on the UK climate movement. I'm also excited share that this work received an **Honourable Mention for Best Paper** award!
+title: Wrapping up three great days at USENIX Security '25, where I presented new work on the UK climate movement. I'm also excited share that this work received an 'Honourable Mention for Best Paper' award!
 date: 2025-08-15 
 inline: false
 related_posts: false
