@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Wrapping up three great days at [USENIX Security '25](https://www.usenix.org/conf%C3%A9rence/usenixsecurity25), where I presented [our paper](https://www.usenix.org/conference/usenixsecurity25/presentation/brough). I'm also excited share that this work received an **Honourable Mention for Best Paper** award
+title:Wrapping up three great days at USENIX Security '25, where I presented new work on the UK climate movement. I'm also excited share that this work received an **Honourable Mention for Best Paper** award!
 date: 2025-08-15 16:11:00-0400
 inline: false
 related_posts: false
