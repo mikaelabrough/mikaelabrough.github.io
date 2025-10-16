@@ -1,0 +1,21 @@
+---
+layout: post
+title: Wrap on fieldwork for this year!
+date: 2025-06-20 16:11:00-0400
+inline: false
+related_posts: false
+---
+
+For the past 1.5 years I have been working on research about the security is environmental advocacy/activism groups in the Philippines. I set out the motivation for this and some early contextual stuff from remote scoping interviews in February 2024. Since then, I have spent between nearly 6 months total in the Philippines, mostly in and around Cebu City, although I did spend about one month in Metro Manila (Quezon City to be more precise). I recently returned from this period of fieldwork, and have spent about two weeks now in London again. This post is not meant to spell out any particular findings from the research, as I have not conducted an analysis of the various fieldnotes, transcripts, interview notes, photos, workshop materials and so on yet, as this will take months. But rather this post is intended to log out what fieldwork meant for my thesis...
+
+### What do I mean by fieldwork?
+
+In ethnography, fieldwork is *the thing* that makes the approach what it is. It means that a researcher will go and be in the place that they are researching, and be a part of the everyday stuff that participants get up to. It is 360, in that it brings broader contextual considerations, like the kind of boring everyday considerations that evade the sit-down interview context, to the fore. It also allows you, the fieldworker, to unpick some of the assumptions that participants are making when they speak about things. As material culture anthropologist Daniel Miller put it in his contribution to ['How many qualitative interviews is enough'](https://eprints.ncrm.ac.uk/id/eprint/2273/4/how_many_interviews.pdf) 
+
+> "I am also amongst the least sympathetic to language as the medium for evidence. Mostly what people say is the legitimation of what they do, not the explanation or the description...the primary method of ethnography is participant observation. It is better to be immersed in people’s everyday life and also listen in to the conversations they have with the people they live with, rather than carrying out the artificial procedure that we call an interview."
+
+Miller does then go on to say that how people choose to legitimate their actions *is important*, and when placed alongside direct observation, insights from interviews are also significant. The key thing here is very much though that interviews without involvement are going to be generally more constrained by what is said out loud, rather than being able to place those things that are said into a broader set of conditions and practices. 
+
+I have learned the most about interviewing by being interviewed myself for others research. It is through this experience that you can feel how the interview is a particular process of knowledge generation -- it can feel uncomfortable, you may feel as if you need to present a certain way depending on how you see your interviewer. Sometimes after, I may think to myself, 'damn, I did not really convey that in a proper way, and given another opportunity or just more time with them I could have given them a better sense.' 
+
+I'm not sure there is any way to get it totally right in research. At least this is what the people I respect most have told me. I think though that fieldwork gives research space to at least really try and get it right, by giving the work time and some serious dedication. It is really fun to see what  emerges through small talk, through conversations on transportation, dinner conversation, chaotic messages in WhatsApp group chats, time spent in the homes and during holidays. After spending time with people in this way, you start to get a better sense where they are coming from, especially when they are talking about and doing things for their (information) security, something deeply embedded into everyday technological practice. So this is what I mean by fieldwork and why I like ethnography. I do not mean to be didactic though, fieldwork is expensive and when you have things like admin and teaching on, it is near impossible. I would have loved to stay in the field for longer but things like the practicalities of institutional budgets ultimately shape much of what is possible. 

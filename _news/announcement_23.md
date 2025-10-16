@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-All first-term [teaching](https://mikaelabrough.github.io/activities/) wrapped up :)
+All first-term teaching wrapped up :)

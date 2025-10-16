@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started new [research assistant](https://mikaelabrough.github.io/activities/) contract!
+Started new research assistant contract!
