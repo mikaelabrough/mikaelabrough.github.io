@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Started fieldwork and data collection for UK project :herb:
+title: Started fieldwork and data collection for UK project!
 date: 2023-05-01 07:59:00-0400
 inline: false
 related_posts: false

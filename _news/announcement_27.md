@@ -1,57 +1,8 @@
 ---
 layout: post
-title:Wrapping up three great days at USENIX Security '25, where I presented new work on the UK climate movement. I'm also excited share that this work received an **Honourable Mention for Best Paper** award!
-date: 2025-08-15 16:11:00-0400
-inline: false
+date: 2025-09-30 
+inline: true
 related_posts: false
 ---
 
-I’m excited to share that our paper, _On the Virtues of Information Security in the UK Climate Movement_, co-authored with Rikke Jensen and Martin Albrecht, has been accepted to USENIX Security ’25.
-
-This paper draws on ethnographic fieldwork to explore how information security is understood and practised within the UK climate movement. We do not focus on the adoption of specific tools in this work, but rather look at how social, organisational, and cultural tensions shape the kinds of decisions that participants make about their (information) security. Here is the abstract:
-
-> We report on an ethnographic study with members of the climate movement in the United Kingdom (UK). We conducted participant observation and interviews at protests and in various activist settings. Reporting on the findings as they relate to information security, we show that members of the UK climate movement wrestled with (i) a fundamental tension between openness and secrecy; (ii) tensions between autonomy and collective interdependence in information-security decision-making; (iii) conflicting activist ideals that shape security discourses; and (iv) pressures from different social gazes -- from each other, from people outside the movement and from their adversaries. Overall, our findings shed light on the social complexities of information-security research in activist settings and provoke methodological questions about programmes that aim to design for activists.
-
-Our project builds on a growing body of research in computer security that asks what it means to design for activists? In other words, how can designers approach the project of building security that actually aligns with the values, constraints, and everyday lives of social movements? Much work in this area is qualitative, often interview based. We go hyper-qualitative and ground this work in interpretative ethnographic methods -- interviewing, combined with participant observation in a particular social movement -- the UK Climate movement (a very large and heterogeneous movement though). By going for a grounded approach based on involvement, this work aimed to get at the decisions, contradictions, and compromises that would be hard to see in standard stand-alone one hour interviews.  
-
-## Doing the research
-
-Some quick notes on collaboration... given that ethnographic work is usually a solo enterprise. I began working on this project in Summer of 2023 (it is worth noting that the contours of protest look different in the UK these days), carrying out interviews and fieldwork, *mostly* in London. This was indeed a solo enterprise at this point, engaging with parts of the movement through meetings, protests, trainings, and workshops with participants who brought me along and shared their stories with me. Of course, the kinds of relationships I established (or already had in some cases) shaped the kinds of spaces I was in as part of the work. I won’t go into too much detail about the fieldwork (or the lengthy ethics approval process) itself here, but I’m deeply grateful to a few brilliant people who went far out of their way to make this work possible. 
-
-I began to transcribe, write, and conduct cycles of preliminary thematic analysis of interview notes, transcripts, fieldnotes... at which point Rikke and Martin became involved. Because fieldwork is necessarily shaped by the perspective of the fieldworker (myself in this case), and for privacy and ethical reasons -- raw interview data was not shared. Thus our collaboration relied heavily on discussion-based analysis and iterative writing. This involved critically engaging with each other's interpretations, identifying blind spots, and surfacing the assumptions shaping our individual readings of the information. This is part of our *reflexive* approach to research, a key aspect of ethnographic work, and was also fun.
-## What we found
-
-In short: when participants spoke about information security, they rarely stayed within the boundaries of “security practices” as they are typically defined in computer security. Their responses often surrounded broader currents, values, and identities. Information security can be seen here as one (of many) contested site where broader struggles within the movement played out. 
-
-If you were to read all the raw text from this project, you would have the overall impression of 'people do a lot of different stuff' -- fragmented practices. This is the case both within and between groups. You would also notice that much of the conversations (both interviews and in-situ conversations) surrounded broader currents, values, and identities. Throughout the period of analysis, we were able to build up an understanding of this fragmentation (and other observable practices) through these values, well at least for this particular group of participants. 
-
-Our analysis is structured around four of themes that discuss these broader currents, rather than enumerating and systematising the various collections of practices people use. These are the names of the themes: 
-
-1. Fundamental Security Tensions
-2. Autonomy and Dependency
-3. Conflicts between Activist Ideals
-4. The Pressures of Different Social Gazes
-
-## Autonomy, dependency, and working out communication to *accomplish the goal(s)*
-
-There is a lot in this paper, but one of my favourite things is that we got to discuss an idea that excited me from the start of fieldwork -- autonomy. Autonomy can mean a lot of different things, but here I am referring to how autonomous decision-making manifests for non-hierarchical groups. Most people who participated in the work were involved in at least one group that used non-hierarchical organising principles, so no formalised relations of authority, consensus-based decision-making and an emphasis on collective and individual autonomy. But as anyone who is a part of this style of organising will tell you (including myself in the past), prioritising autonomous decision-making can be complicated by the agreed necessities required *to accomplish the goal(s)*. 
-
-One of the things about information security that we know is that for people (not orgs), it can feel individualised -- personal privacy is often marketed within the realm of consumer choices. It can feel that if you do x, y, and z -- your devices are *secured*. A few people in the study had devices like this, but when others in your group (whether it be an affinity group or any amount bigger) may want different things for their own devices, conflicts emerge. To fulfil a goal of being individually *secured*, you ultimately have to win over others to adopt your same individual practices, since social movements are collective. For example, a participant liked the idea of using Session for messaging, but knew that others would never be convinced to use it. But on the other side, there were people interviewed who placed much greater emphasis on *balancing* security with other considerations, such as accessibility and approachability for growing the movement. So what happens here when people with different values must communicate to *accomplish the goal(s)* but some groups do not have committees that simply impose a decision?
-
-### How does this actually look?
-
-The short answer is fragmentation, but the more interesting answer lies in how that fragmentation actually looks. In the paper we decided to show how this actually looks using one extended examples of secure messaging application choice within a particular group involved in the study. In ethnographic work, it is really common to select individual accounts (or case studies I suppose) and give a detailed description of them to bring colour to the analysis -- they are sometimes referred to as vignettes. 
-
-For this group, the question of common communication was approached through consensus decision-making. For example, they decided to use Signal as a core communication channel through consensus. Despite the consensus though, many chose after the decision was made to stay with their previous chat app -- WhatsApp, for instance. The same group reached consensus about which team collaboration software to use and the same thing happened -- people moved unevenly. Since the group values autonomous decision-making, organisers ended up having adopt workarounds for logistics. Some people would have to get every app that is in concurrent use, build things like mirror chats on different platforms and *cross-post* identical information across platforms. For some people, this works great, they pick which app they like and they receive key information, which respects their priorities in terms of technology. Some groups may even intentionally fragment their chat apps along lines of risk, so there are real perceived upsides to this dynamic for security for for autonomy.
-
-For those who manage many chat apps, especially during something really dynamic and stressful like a protest, this can introduces new dependencies. During one protest, an organiser was so frustrated with copying and the pasting between two apps that they stopped and said if someone needs info they should just come find them in person -- they said that they felt like an 'IT hub'. In this example, cross-posting and the need for this workaround was linked to 1) how much of a role different people thought security should play in communication decisions, 2) how this group made everyone heard and respected different values surrounding the individual decisions people wanted to make, 3) how workarounds can come to embody security practices in and of themselves.
-
-## The importance of public messaging around secure messaging 
-
-The discussion section is really the best place to turn to with what we made of our findings. But when I was presenting this work last year, one attendee said afterwards that that they were really surprised by the finding that 'the more secure of a reputation something had, the less *some* activists wanted to use it' According to them, they would have thought that this would be related to risk level, but our findings show that threat modelling is complicated massively in social movements by considerations beyond risk. 
-
-We were asked in the reviews of this paper why we did not include recommendations for design, and ultimately this came down to wanting to do the sociological contributions justice, even in a computer security venue. I think though that our paper speaks to the types of public messaging that exist around existing and emerging tools, even if we do not get massively into it within the scope of the paper, this is a space for further work. We know that when designers build something with security in mind, they often make a point of it, and then if people pick it up, it is often due to the reputation of it being secure -- e.g. Proton Mail. 
-
-I acknowledge the small number of interviews data that our work draws upon and the limited focus on secure messaging (other limitations inc. in paper), but at very least, I hope that our work provides some grounded examples to spark some future work on how 'public messaging around secure messaging' may affect how secure tools are used within social movements. With 'very secure' tools becoming polarising and taking on different values than intended, these tools may become sites of contestation, rather than common communication.
-
-Again, I am so beyond grateful for the people who shared their stories and their spaces with me as part of this research. Excited to present this work in Seattle in August! 
+Had a great time at [Privacy Camp 2025](https://privacycamp.eu/), organised by EDRi in Brussels —- great workshops on digital rights in times of rising authoritarianism & EU deregulation.
