@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wrap on fieldwork for this year!
+title: Wrap on fieldwork in the Philippines for this year! Back in London. 
 date: 2025-06-20 16:11:00-0400
 inline: false
 related_posts: false
