@@ -9,7 +9,7 @@ category: Past
 
 __Title__
 
-AWAY FROM UNCERTAINTY: A TRANSNATIONAL ETHNOGRAPHY OF THE LONDON (UK) CHEF SHORTAGE, 2021 
+Away from Uncertainty: A Transnational Ethnography of the London (UK) Chef Shortage, 2021 
 
 __Abstract__ 
 
