@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Developers
+title: Ethnographic Methods
 
 importance: 4
-category: Past
+category: Current
 
 ---
 
-__Title__
+__Topic__ 
 
-Perceptions of Secure Software Development: A Qualitative Study of Software Engineers in the UK
+Ethnographic Methods for Studying 'At-Risk' Communities in Information Security
 
-__Co-Authors__ 
+__Summary__
 
-Sam Smith, Cameron Jones.
+This project explores how ethnographic research can reveal the social relationships, cultural practices and power structures that shape information security in diverse communities around the world. Drawing on fieldwork with activists, protesters, indigenous communities and women across different international contexts, it demonstrates how long-term, immersive engagement uncovers security experiences and challenges that are often missed by other research methods.
 
-__Abstract__
+__Status__
 
-There are differences between developing software in the USA and the UK, ranging from variances in coding standards and industry practices to disparities in work culture and market dynamics. This study aims to provide an initial qualitative account of the experiences of software developers in the UK while developing secure code. We address two key research areas: (1) the degree of concern among software developers regarding security, (2) the reasons behind developers' decisions to adopt, or disregard, certain dependency management and automated tooling techniques. Through interviews with nine developers, a deeper understanding of the human factors influencing secure code development in the UK was obtained. Preliminary results show that UK-based developers are influenced by: organisational, individual, and social factors, more work is needed to conclude how these are influenced by a UK national context. 
+Manuscript currently under review.
+
 
 

@@ -27,7 +27,7 @@ I am supervised by [Professor Rikke Bjerg Jensen](https://pure.royalholloway.ac.
 
 #### Current Work
 
-I spent 2023-2024 studing the UK climate movement. My work in the Philippines is a 2 year formal collaboration between myself, local universities in PH and environmental advocacy groups, involving multiple periods of fieldwork. I am currently working on finalising and submitting my thesis.
+I spent 2023-2024 studying the UK climate movement. My work in the Philippines is a 2 year formal collaboration between myself, local universities in PH and environmental advocacy groups, involving multiple periods of fieldwork. I am currently working on finalising and submitting my thesis.
 
 #### Etc.
 

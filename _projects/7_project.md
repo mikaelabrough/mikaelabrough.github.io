@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Convergence
+title: Developers
 
 importance: 7
 category: Past
@@ -9,9 +9,13 @@ category: Past
 
 __Title__
 
-Securing Converged Technologies: Insights from Subject Matter Experts          
+Perceptions of Secure Software Development: A Qualitative Study of Software Engineers in the UK
 
-__Abstract__ 
+__Co-Authors__ 
 
-The convergence of existing and emerging technologies are increasingly reshaping contemporary capabilities of states, organisations, and society with significant risks and opportunities for cyber security. Based on research with 20 subject matter experts primarily from within the cyber security sector, this report examines the role of technology convergence, its impact upon cyber security, and potential policy responses to identifying and mitigating technology convergence in the domain. We present a series of findings on the challenges of identifying technology convergences for cyber security, how technology convergence operates across broader technology ecologies, and how engagement with a range of actors in order to build expert communities is essential to addressing and mitigating the impact of technology convergence for cyber security.
+Sam Smith, Cameron Jones.
+
+__Abstract__
+
+There are differences between developing software in the USA and the UK, ranging from variances in coding standards and industry practices to disparities in work culture and market dynamics. This study aims to provide an initial qualitative account of the experiences of software developers in the UK while developing secure code. We address two key research areas: (1) the degree of concern among software developers regarding security, (2) the reasons behind developers' decisions to adopt, or disregard, certain dependency management and automated tooling techniques. Through interviews with nine developers, a deeper understanding of the human factors influencing secure code development in the UK was obtained. Preliminary results show that UK-based developers are influenced by: organisational, individual, and social factors, more work is needed to conclude how these are influenced by a UK national context. 
 

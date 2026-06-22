@@ -1,20 +1,18 @@
 ---
 layout: page
-title: Philippine Environmental Defenders
+title: Masters Dissertation
 
 importance: 10
-category: Current
+category: Past
 
 ---
 
-__Topic__ 
+__Title__
 
-Information security practices in environmental activism in the Philippines.
+Away from Uncertainty: A Transnational Ethnography of the London (UK) Chef Shortage, 2021 
 
-__Summary__
+__Abstract__ 
 
-This study explores the information security practices of environmental activists in the Philippines through a five-and-a-half-month ethnographic field study around Cebu City. It examines how travel through conflict-affected, low-connectivity areas and encounters at checkpoints shaped ongoing risks of device seizure and data compromise. It shows how activists developed collective practices such as distress signalling, data minimisation, obscurity and physical document transfer to manage these risks.
+In 2021, the Association of Labour Providers reported that 78% of professional kitchens in the United Kingdom (UK) are not adequately staffed. While this dearth of chefs is popularly understood as resulting from Brexit immigration policy and the Coronavirus (COVID-19) pandemic, few scholars have analyzed the role of unstable work conditions in contributing to the shortage. Based on guided conversations, interviews, and periods of participant observation in London, UK, in 2021, this project examines the extent to which workplace uncertainty contributes to the current chef shortage in the UK. This study presents the perspectives and experiences of chefs originally from Italy, Portugal, and Spain— providing insight into how holistic notions of material and immaterial uncertainty underlie migrant worker’s aspirations to leave the UK food industry. I determine that for chefs working in either permanent and temporary positions, inconsistent pay, fluctuating schedules, and emotional volatility are the primary producers of instability in their lives. I then draw a connection between these conditions of uncertainty and the production and intentional hope for the future, concluding that aspirations often take the form of return migration ideation and career change ideation. This work provides a novel ethnographic perspective to the study of transnational work in London by focusing on the voices of both skilled and unskilled Southern European immigrants. By highlighting theories surrounding uncertainty, hope, and time to address a grounded socio-economic issue in the future of work/food, this project contributes to the discursive call to embrace more future-oriented questions. 
 
-__Status__
-
-Manuscript currently under review.
+Result: 1:1

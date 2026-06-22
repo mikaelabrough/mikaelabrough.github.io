@@ -1,23 +1,25 @@
 ---
 layout: page
-title: UK Climate
+title: Philippine Environmental Defenders
 
 importance: 2
 category: Current
+
 ---
 
-__Title__
+__Topic__ 
 
-On the Virtues of Information Security in the UK Climate Movement
+Information security practices in environmental activism in the Philippines.
 
-__Co-Authors__ 
+__Summary__
 
-Professor Rikke Bjerg Jensen, Professor Martin Albrecht
+This study explores the information security practices of environmental activists in the Philippines through a five-and-a-half-month ethnographic field study around Cebu City. It examines how travel through conflict-affected, low-connectivity areas and encounters at checkpoints shaped ongoing risks of device seizure and data compromise. It shows how activists developed collective practices such as distress signalling, data minimisation, obscurity and physical document transfer to manage these risks.
 
-__Abstract__
+__Status__
 
-We report on an ethnographic study with members of the UK climate movement. We conducted participant observation at protests and in various activist settings, which also enabled us to interview members of different groups. Reporting on the findings as they relate to information security, we show that members of the UK climate movement wrestled with (i) a necessary tension between openness and secrecy considerations; (ii) tensions between autonomy and collective interdependence in (information security) decision-making; (iii) conflicting activist ideals that shape security discourses; and (iv) pressures from different social gazes -- from each other, from people outside the movement and from their adversaries. Overall, our findings shed light on the social complexities of information-security research in activist settings and provoke methodological questions about programmes that aim to design for activists.
+Manuscript currently under review.
 
-Motivations for project in blog post [here](https://mikaelabrough.github.io/blog/2024/uk_climate/)
+
+
 
 

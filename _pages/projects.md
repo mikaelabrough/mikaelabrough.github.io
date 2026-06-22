@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: abstracts from various projects
+description: abstracts and short summaries from various projects
 nav: true
 nav_order: 3
 display_categories: [work, fun]
