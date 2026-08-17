@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honoured to receive the Distinguished Reviewer Award for USENIX Security ’26!
+Honoured to receive the [Distinguished Reviewer Award](https://www.usenix.org/sites/default/files/sec26_message.pdf) for USENIX Security ’26!
