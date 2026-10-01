@@ -23,22 +23,23 @@ I submitted my PhD thesis in the ISG in September 2026 and am awaiting my viva.
 
 I currently teach Security Management and Introduction to Information Security. In my teaching, I aim to connect technical and organisational security concepts with the social contexts in which they are applied, encouraging students to consider who security is for and how it is experienced in practice.
 
-Prior to my appointment as Lecturer, I worked as a teaching assistant across a range of modules, including Security Management, Introduction to Cryptography, and Programming and Statistics. I have experience teaching programming primarily in Python, with working knowledge of R, C and Java.
+Prior to my appointment as Lecturer, I worked as a teaching assistant across a range of modules, including Security Management, Introduction to Cryptography and Programming and Statistics. I have experience teaching programming primarily in Python, with working knowledge of R, C and Java.
 
-I welcome enquiries from students interested in research on the human and social dimensions of security, including digital rights and surveillance, security practices in organisations and communities and qualitative and participatory approaches to security research.
+I welcome enquiries from students interested in research on the human and social dimensions of security, including digital rights and surveillance, security practices in organisations and communities and qualitative and participatory approaches to security research. 
 
 #### Research
 
 My current research interests include:
 
-- Ethnographic approaches to information security
+- Understanding information security concerns and needs of at-risk communities
+- Ethnographic and Participatory research methods in security
 - Security and privacy practices of activists and social movements
 - Social and cultural dimensions of cryptography
 - Security management in informal, grassroots and professional organisations
-- Security culture and ethics
-- Qualitative and participatory research methods in security
+- Security culture(s)
+- Research ethics and societal harms
 
-My work takes a multi-sited, engaged ethnographic approach, combining extended periods of embedded fieldwork, participant observation and formal and informal interviews. Engagement is central to this approach: I work collaboratively with participants and partner organisations, aiming to ensure that the research process and its outputs benefit the communities involved. My work also attends closely to the ethical and practical challenges of conducting research with at-risk groups, including participant safety, data protection and consent.
+My research often takes an engaged ethnographic approach, combining extended periods of embedded fieldwork, participant observation and formal and informal interviews. Engagement is central to this approach: I work collaboratively with participants and partner organisations, aiming to ensure that the research process and its outputs benefit the communities involved. My work also attends closely to the ethical and practical challenges of conducting research with at-risk groups, including participant safety, data protection and consent.
 
 I am a member of the ISG [Ethnography Group](https://rikkebjerg.gitlab.io/ethnography-group/people/), which brings ethnographic methods to the study of information security, and I am happy to discuss qualitative and fieldwork-based methods with colleagues and students working in security and design research. Further details of my projects are available [here](https://mikaelabrough.github.io/projects).
 
