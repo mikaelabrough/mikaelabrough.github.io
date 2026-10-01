@@ -25,7 +25,7 @@ I currently teach Security Management and Introduction to Information Security. 
 
 Prior to my appointment as Lecturer, I worked as a teaching assistant across a range of modules, including Security Management, Introduction to Cryptography and Programming and Statistics. I have experience teaching programming primarily in Python, with working knowledge of R, C and Java.
 
-I welcome enquiries from students interested in research on the human and social dimensions of security, including digital rights and surveillance, security practices in organisations and communities and qualitative and participatory approaches to security research. 
+I welcome enquiries from students interested in research on the human and social dimensions of security, including digital rights and surveillance, security practices in organisations and communities and qualitative and participatory approaches to security research. I also am interested in supervising projects across a wide range of cyber security topics.
 
 #### Research
 
@@ -39,15 +39,13 @@ My current research interests include:
 - Security culture(s)
 - Research ethics and societal harms
 
-My research often takes an engaged ethnographic approach, combining extended periods of embedded fieldwork, participant observation and formal and informal interviews. Engagement is central to this approach: I work collaboratively with participants and partner organisations, aiming to ensure that the research process and its outputs benefit the communities involved. My work also attends closely to the ethical and practical challenges of conducting research with at-risk groups, including participant safety, data protection and consent.
+My research often takes an ethnographic approach, combining extended periods of embedded fieldwork, participant observation and formal and informal interviews. Engagement is central to this approach: I work collaboratively with participants and partner organisations, aiming to ensure that the research process and its outputs benefit the communities involved. My work also attends closely to the ethical and practical challenges of conducting research with at-risk groups, including participant safety, data protection and consent.
 
-I am a member of the ISG [Ethnography Group](https://rikkebjerg.gitlab.io/ethnography-group/people/), which brings ethnographic methods to the study of information security, and I am happy to discuss qualitative and fieldwork-based methods with colleagues and students working in security and design research. Further details of my projects are available [here](https://mikaelabrough.github.io/projects).
+My former doctoral research was undertaken within the [EPSRC Centre for Doctoral Training (CDT) in Cyber Security for the Everyday](https://royalholloway.ac.uk/research-and-teaching/departments-and-schools/information-security/studying-here/centre-for-doctoral-training-in-cyber-security-for-the-everyday/current-cdt-researchers/), an interdisciplinary doctoral centre bringing together researchers in cryptography, systems security and the social sciences. It was supervised by [Professor Rikke Bjerg Jensen](https://pure.royalholloway.ac.uk/en/persons/rikke-bjerg-jensen) and [Professor Martin Albrecht](https://www.kcl.ac.uk/people/martin-albrecht), an ethnographer and a cryptographer respectively, and affiliated with their EPSRC-funded project [Social Foundations of Cryptography](https://social-foundations-of-cryptography.gitlab.io/team).
 
-#### Doctoral Research
+For this research, I studied information security management within the UK climate movement and the Philippine Environmental Movement. In the Philippines, I led a over two-year formal collaboration with local universities and environmental advocacy groups, involving multiple periods of fieldwork. Publications arising from this research are currently under review. I will continue my involvement with Social Foundations of Cryptography as a Research Associate from 2026 to 2027.
 
-My doctoral research was undertaken within the [EPSRC Centre for Doctoral Training (CDT) in Cyber Security for the Everyday](https://royalholloway.ac.uk/research-and-teaching/departments-and-schools/information-security/studying-here/centre-for-doctoral-training-in-cyber-security-for-the-everyday/current-cdt-researchers/), an interdisciplinary doctoral centre bringing together researchers in cryptography, systems security and the social sciences. It was supervised by [Professor Rikke Bjerg Jensen](https://pure.royalholloway.ac.uk/en/persons/rikke-bjerg-jensen) and [Professor Martin Albrecht](https://www.kcl.ac.uk/people/martin-albrecht), an ethnographer and a cryptographer respectively, and affiliated with their EPSRC-funded project [Social Foundations of Cryptography](https://social-foundations-of-cryptography.gitlab.io/team).
-
-Between 2023 and 2024, I studied information security management within the UK climate movement. In the Philippines, I led a two-year formal collaboration with local universities and environmental advocacy groups, involving multiple periods of fieldwork. Publications arising from this research are currently under review. I will continue my involvement with Social Foundations of Cryptography as a Research Associate from 2026 to 2027.
+Further details of my projects are available [here](https://mikaelabrough.github.io/projects).
 
 #### Background
 
