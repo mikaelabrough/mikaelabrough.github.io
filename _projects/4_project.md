@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ethnographic Methods
+title: Ethnographic Methods and At-Risk Communities
 
 importance: 4
 category: Current
