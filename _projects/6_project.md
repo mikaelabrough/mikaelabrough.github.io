@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UK Climate
+title: UK Climate Activism
 
 importance: 6
 category: Past

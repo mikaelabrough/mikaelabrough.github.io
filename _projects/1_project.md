@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD Thesis
+title: Philippine Environmental Defenders
 
 importance: 1
 category: Current
@@ -17,4 +17,4 @@ This thesis examines how environmental organisers in the Philippines understand 
 
 __Status__
 
-Drafting 
+Submitted as PhD Thesis, awaiting viva.

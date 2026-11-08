@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Convergence
+title: Convergence and Security
 
 importance: 5
 category: Past
@@ -9,7 +9,11 @@ category: Past
 
 __Title__
 
-Securing Converged Technologies: Insights from Subject Matter Experts          
+Securing Converged Technologies: Insights from Subject Matter Experts   
+
+__Co-Author__ 
+
+Dr. Andrew Dwyer     
 
 __Abstract__ 
 

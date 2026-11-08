@@ -1,9 +1,9 @@
----
+w---
 layout: page
-title: High/Low Risk
+title: Understanding High and Low Risk Communities
 
 importance: 9
-category: Current
+category: Past
 
 ---
 
