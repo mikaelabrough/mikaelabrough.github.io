@@ -1,22 +1,23 @@
 ---
 layout: page
-title: UK Climate Activism
+title: Technology Convergence
 
 importance: 6
 category: Past
+
 ---
 
 __Title__
 
-On the Virtues of Information Security in the UK Climate Movement
+Securing Converged Technologies: Insights from Subject Matter Experts   
 
-__Co-Authors__ 
+__Co-Author__ 
 
-Professor Rikke Bjerg Jensen, Professor Martin Albrecht
+Dr. Andrew Dwyer     
 
-__Abstract__
+__Abstract__ 
 
-We report on an ethnographic study with members of the UK climate movement. We conducted participant observation at protests and in various activist settings, which also enabled us to interview members of different groups. Reporting on the findings as they relate to information security, we show that members of the UK climate movement wrestled with (i) a necessary tension between openness and secrecy considerations; (ii) tensions between autonomy and collective interdependence in (information security) decision-making; (iii) conflicting activist ideals that shape security discourses; and (iv) pressures from different social gazes -- from each other, from people outside the movement and from their adversaries. Overall, our findings shed light on the social complexities of information-security research in activist settings and provoke methodological questions about programmes that aim to design for activists.
+The convergence of existing and emerging technologies are increasingly reshaping contemporary capabilities of states, organisations, and society with significant risks and opportunities for cyber security. Based on research with 20 subject matter experts primarily from within the cyber security sector, this report examines the role of technology convergence, its impact upon cyber security, and potential policy responses to identifying and mitigating technology convergence in the domain. We present a series of findings on the challenges of identifying technology convergences for cyber security, how technology convergence operates across broader technology ecologies, and how engagement with a range of actors in order to build expert communities is essential to addressing and mitigating the impact of technology convergence for cyber security.
 
 
 

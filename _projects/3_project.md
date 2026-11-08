@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Protest Camps
+title: Threat Modelling and Activism
 
 importance: 3
 category: Current

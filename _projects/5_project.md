@@ -1,24 +1,23 @@
 ---
 layout: page
-title: Convergence and Security
+title: Anamorphism
 
 importance: 5
-category: Past
+category: Current
 
 ---
 
 __Title__
 
-Securing Converged Technologies: Insights from Subject Matter Experts   
+Anamorphic Encryption and the Security Needs of Activists Under Coercion 
 
-__Co-Author__ 
+_Summary__
 
-Dr. Andrew Dwyer     
+This project examines whether anamorphic encryption, which aims to keep communication secure even when an adversary holds the secret keys, meets the needs of communities it is motivated by. Drawing on eighteen months of combined ethnographic fieldwork with activists across two different national contexts, it shows that activists expect to disclose secrets under pressure and often need to prove that nothing remains hidden. It formalises this need and proves that no anamorphic encryption scheme can meet it, since the undetectability that defines the primitive is exactly what prevents those under suspicion from demonstrating their innocence.
 
-__Abstract__ 
+__Status__
 
-The convergence of existing and emerging technologies are increasingly reshaping contemporary capabilities of states, organisations, and society with significant risks and opportunities for cyber security. Based on research with 20 subject matter experts primarily from within the cyber security sector, this report examines the role of technology convergence, its impact upon cyber security, and potential policy responses to identifying and mitigating technology convergence in the domain. We present a series of findings on the challenges of identifying technology convergences for cyber security, how technology convergence operates across broader technology ecologies, and how engagement with a range of actors in order to build expert communities is essential to addressing and mitigating the impact of technology convergence for cyber security.
-
+Manuscript currently under review.
 
 
 

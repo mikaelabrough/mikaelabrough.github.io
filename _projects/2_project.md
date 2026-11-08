@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Security on the Move
+title: Checkpoints and Connectivity
 
 importance: 2
 category: Current

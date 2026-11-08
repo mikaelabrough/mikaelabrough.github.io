@@ -2,33 +2,29 @@
 layout: page
 title: Talks
 permalink: /talks/
-description: Talks on information security and privacy in civil society, research ethics and the social foundations of cryptography.
+description:
 nav: true
 nav_order: 4
 ---
 
 I speak on information security and privacy in activist and civil society movements, as well as on research ethics and the broader social dimensions of security and cryptography. If you’d like me to speak at an event, please get in touch via [email](mailto:mikaela.brough@rhul.ac.uk). Slides are also available on request.
 
-## Invited Talks & Guest Lectures
+## Academic Talks
 
-- **Reflections from Fieldwork in the Philippines: On Ethnography, (Information) Security, etc.**<br>Social Foundations of Cryptography Autumn School, King's College London, London, UK · 2026
-- **Cultural Implications of Security**<br>Guest Lecture: Social Foundations of Security and Privacy, MSc Information Security, Royal Holloway, University of London, Egham, UK · 2026
-- **Information Security in the Climate Movement**<br>Cybersecurity Seminar Series, King's College London, London, UK · 2025
-- **Research Ethics**<br>Guest Lecture: Research Methods, MSc Information Security, Royal Holloway, University of London, Egham, UK · 2024
-- **Talking about Information Security**<br>Departmental Seminar, University of Cebu, Cebu City, Philippines · 2024
-- **Annual Guest Lecture: Ethics in Advanced Computing and AI**<br>MSc Artificial Intelligence, Royal Holloway, University of London (online) · 2024–2026
+- **Reflections from Fieldwork in the Philippines: On Ethnography, (Information) Security, etc.**<br>*Invited Talk:* Social Foundations of Cryptography Autumn School, King's College London, London, UK · 2026
+- **Cultural Implications of Security**<br>*Guest Lecture:* Social Foundations of Security and Privacy, MSc Information Security, Royal Holloway, University of London, Egham, UK · 2026
+- **Security, Privacy and Grassroots Environmentalism in the Philippines**<br>Cryptology and Social Life Conference, Norwegian University of Science and Technology, Trondheim, Norway · 2025
+- **On the Virtues of Information Security in the UK Climate Movement**<br>USENIX Security Symposium '25, Seattle, Washington, USA · 2025<br><span class="award">Honourable Mention for Best Paper</span>
+- **Information Security in the Climate Movement**<br>*Invited Talk:* Cybersecurity Seminar Series, King's College London, London, UK · 2025
+- **Security, Privacy and Grassroots Advocacy in the Philippines**<br>ReCAP: Re-imagining Cryptography and Privacy, The City College of New York, New York, USA · 2025
+- **Research Ethics**<br>*Guest Lecture:* Research Methods, MSc Information Security, Royal Holloway, University of London, Egham, UK · 2024
+- **Talking about Information Security**<br>*Invited Talk:* Departmental Seminar, University of Cebu, Cebu City, Philippines · 2024
+- **On the Virtues of Information Security in the UK Climate Movement**<br>ReCAP: Re-imagining Cryptography and Privacy, Tufts University, Massachusetts, USA · 2024
+- ***Annual Guest Lecture:* Ethics in Advanced Computing and AI**<br>MSc Artificial Intelligence, Royal Holloway, University of London (online) · 2024–2026
   - *When Technology Meets Civil Society: Research Ethics and Real-World Harms* · 2026
   - *Ethics, Emerging Technologies, and Activism* · 2025
   - *AI Ethics* · 2024
-{: .talks-list}
-
-## Conference Presentations
-
-- **Security, Privacy and Grassroots Environmentalism in the Philippines**<br>Cryptology and Social Life Workshop, Trondheim, Norway · 2025
-- **On the Virtues of Information Security in the UK Climate Movement**<br>USENIX Security Symposium '25, Seattle, Washington, USA · 2025<br><span class="award">Honourable Mention for Best Paper</span>
-- **Security, Privacy and Grassroots Advocacy in the Philippines**<br>ReCAP: Re-imagining Cryptography and Privacy, The City College of New York, New York, USA · 2025
-- **On the Virtues of Information Security in the UK Climate Movement**<br>ReCAP: Re-imagining Cryptography and Privacy, Tufts University, Massachusetts, USA · 2024
-- **Information Security in Environmental Movements**<br>Inter-CDT Conference, University of Bristol, Bristol, UK · 2024
+- **Information Security in Environmental Movements**<br>Cyber Secure Futures, University of Bristol, Bristol, UK · 2024
 - **On the Virtues of Information Security in the UK Climate Movement**<br>CDT Showcase, Royal Holloway, University of London, Windsor, UK · 2024
 - **Information Security in the Philippine Environmental Movement(s)**<br>MISC-CS Conference, Royal Holloway, University of London, Egham, UK · 2024
 - **Exploring Secure Messaging and Perceptions of Risk: A Literature Review**<br>STS Italia Conference, Università di Bologna, Bologna, Italy · 2023

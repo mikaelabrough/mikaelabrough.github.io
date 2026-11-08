@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Precarity
+title: Labour Precarity
 
 importance: 10
 category: Past
