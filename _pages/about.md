@@ -46,7 +46,7 @@ I currently teach Security Management and Introduction to Information Security a
 
 Prior to my appointment as Lecturer, I worked as a teaching assistant across a range of modules, including Security Management, Introduction to Cryptography and Programming and Statistics. I have experience teaching programming primarily in Python, with working knowledge of R, C and Java.
 
-I welcome enquiries from students interested in research on the human and social dimensions of security, including digital rights and surveillance, security practices in organisations and communities and qualitative and participatory approaches to security research. I also am supervising projects across a wide range of technical cyber security topics (e,g, topics in cloud security, network modelling and malware analysis).
+I welcome enquiries from students interested in research on the human and social dimensions of security, including digital rights and surveillance, security practices in organisations and communities and qualitative and participatory approaches to security research. I also am supervising undergraduate projects across a wide range of technical cyber security topics (e,g, topics in cloud security, network modelling and malware analysis).
 
 #### Background
 
