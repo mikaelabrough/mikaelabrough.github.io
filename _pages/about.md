@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a [Lecturer](https://pure.royalholloway.ac.uk/en/persons/mik-brough) in the Information Security Group (ISG), part of the Department of Computing, Security and Mathematics at Royal Holloway, University of London (T/F). My research sits at the intersection of anthropology and information security, examining how activists and at-risk communities understand, practise and manage information security in their everyday lives. I am also a part-time research associate at Kings College London, affiliated with the [EPSRC-funded Social Foundations of Cryptography Project](https://social-foundations-of-cryptography.gitlab.io/) from 2026-2027.
+I am a [Lecturer](https://pure.royalholloway.ac.uk/en/persons/mik-brough) in the Information Security Group (ISG), part of the Department of Computing, Security and Mathematics at Royal Holloway, University of London (T/F). My research sits at the intersection of anthropology and information security, examining how activists and at-risk communities understand, practise and manage information security in their everyday lives. I am also a [Part-Time Research Associate](https://social-foundations-of-cryptography.gitlab.io/team) at Kings College London, affiliated with the [EPSRC-funded Social Foundations of Cryptography Project](https://social-foundations-of-cryptography.gitlab.io/) from 2026-2027.
 
 I am currently awaiting viva.
 
